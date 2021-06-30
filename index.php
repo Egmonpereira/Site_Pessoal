@@ -44,6 +44,7 @@ $image_rand = "imagens/bg(".$rand.").jpg";
     <!--img width="610"  height="170" src="javascript:banners();"><br-->
 	<!--GOOGLE-->
 	<!--REDES SOCIAIS-->
+    <div class="container">
     <a target="_blank" href="https://twitter.com/egmon"><img width="80" src="imagens/twitter.png"></a>
     <a target="_blank" href="https://www.instagram.com/egmonpereira"><img width="80" src="imagens/instagram1.png"></a>
     <a target="_blank" href="https://vk.com/feed"><img width="80" src="imagens/vk.png"></a>
@@ -53,7 +54,7 @@ $image_rand = "imagens/bg(".$rand.").jpg";
     <a target="_blank" href="https://www.youtube.com"><img width="80" src="imagens/youtube.png"></a>
     <a target="_blank" href="https://br.pinterest.com"><img width="80" src="imagens/pintereste.png"></a>
     <a target="_blank" href="https://www.motoscustom.com.br"><img width="80" src="imagens/motocustom.png"></a>
-<br />
+    </div>
     <a target="_blank" href="https://parler.com/Egmont"><img width="70" src="imagens/parler.png"></a>
     <a target="_blank" href="https://web.telegram.org/"><img width="70" src="imagens/telegram.png"></a>
     <a target="_blank" href="https://www.disneyplus.com/"><img width="70" src="imagens/Disney.png"></a>
