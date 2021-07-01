@@ -56,11 +56,18 @@ $image_rand = "imagens/bg(".$rand.").jpg";
     <a target="_blank" href="https://www.urionlinejudge.com.br/judge/pt"><img width="80" src="imagens/uri.png"></a>
     <a target="_blank" href="http://www.veduca.com.br/"><img width="80" src="imagens/veduca.png"></a>
     <a target="_blank" href="http://www.udemy.com/"><img width="80" src="imagens/udemy.png"></a>
-    <a target="_blank" href="https://github.com/settings/profile/"><img width="80" src="imagens/github.png"></a>
-    <a target="_blank" href="https://git.juninho.com.br/"><img width="80" src="imagens/influenzer.png"></a>
     <a target="_blank" href="https://www.cebraspe.org.br/concursos/prf_21"><img width="80" src="imagens/brasaoprf.png"></a>
     <a target="_blank" href="http://portal.nc.ufpr.br/PortalNC/Login"><img width="80" src="imagens/pcpr.png"></a>
     <a target="_blank" href="https://www.cebraspe.org.br/concursos/PC_DF_19_ESCRIVAO"><img width="80" src="imagens/pcdf.png"></a>
+    </div>
+
+  <div class="container">
+    <a target="_blank" href="http://simplex.tode.cz/en/"><img width="80" src="imagens/simplexcalculator.png"></a>
+    <a target="_blank" href="http://www.phpsimplex.com/pt/"><img width="80" src="imagens/phpsimplex.png"></a>
+    <a target="_blank" href="https://www.overleaf.com"><img width="80" src="imagens/overleaf.png"></a>
+    <a target="_blank" href="https://www.wolframalpha.com/examples/mathematics/"><img width="80" src="imagens/wolfram-alpha.png"></a>
+    <a target="_blank" href="https://github.com/settings/profile/"><img width="80" src="imagens/github.png"></a>
+    <a target="_blank" href="https://git.juninho.com.br/"><img width="80" src="imagens/influenzer.png"></a>
   </div>
 
   <div class="container">
@@ -68,11 +75,9 @@ $image_rand = "imagens/bg(".$rand.").jpg";
     <a target="_blank" href="https://sig.cefetmg.br/sigaa/"><img width="80" src="imagens/sigaa.png"></a>
     <a target="_blank" href="https://ava.cefetmg.br/login/index.php"><img width="80" src="imagens/moodle.png"></a>
     <a target="_blank" href="https://sistemas.ufmg.br/portal/render.userLayoutRootNode.uP"><img width="80" src="imagens/ufmg.png"></a>
-    <a target="_blank" href="httphp.validate.executablePathps://convertio.co/pt/"><img width="80" src="imagens/convertio.png"></a>
     <a target="_blank" href="https://cognitiveclass.ai"><img width="80" src="imagens/cognitive.png"></a>
     <a target="_blank" href="https://www.ead.cesumar.br/site/"><img width="80" src="imagens/unicesumar.png"></a>
     <a target="_blank" href="https://www.bibliotecadaengenharia.com/"><img width="80" src="imagens/bibliotecadaengenharia.png"></a>
-    <a target="_blank" href="https://www.overleaf.com"><img width="80" src="imagens/overleaf.png"></a>
   </div>
 
   <div class="container">

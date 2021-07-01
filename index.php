@@ -88,6 +88,7 @@ $image_rand = "imagens/bg(".$rand.").jpg";
     <a target="_blank" href="https://trello.com/login"><img width="80" src="imagens/trello.png"></a>
     <a target="_blank" href="https://slack.com/intl/pt-br"><img width="80" src="imagens/slack.png"></a>
     <a target="_blank" href="https://user-zmodo.meshare.com/user/login"><img width="80" src="imagens/zmodo.png"></a>
+    <a target="_blank" href="https://convertio.co/pt/"><img width="80" src="imagens/convertio.png"></a>
     <a target="_self" href="google.php"><img width="85" src="imagens/google.png"></a>
     <a target="_self" href="academicos.php"><img width="80" src="imagens/capelo.png"></a>
     <a target="_self" href="biblias.php"><img width="80" src="imagens/LogoReformada.png"></a>
