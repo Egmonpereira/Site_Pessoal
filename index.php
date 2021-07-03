@@ -90,8 +90,8 @@ $image_rand = "imagens/bg(".$rand.").jpg";
     <a target="_blank" href="https://user-zmodo.meshare.com/user/login"><img width="80" src="imagens/zmodo.png"></a>
     <a target="_blank" href="https://convertio.co/pt/"><img width="80" src="imagens/convertio.png"></a>
     <a target="_self" href="google.php"><img width="85" src="imagens/google.png"></a>
-    <a target="_self" href="academicos.php"><img width="80" src="imagens/capelo.png"></a>
     <a target="_self" href="biblias.php"><img width="80" src="imagens/LogoReformada.png"></a>
+    <a target="_self" href="academicos.php"><img width="80" src="imagens/capelo.png"></a>
     <a target="_self" href="roteadores.php"><img width="80" src="imagens/circulomaior1.png"></a>
     <a target="_blank" href="http://www.egmon.com.br"><img width="80" src="imagens/meusite.png"></a>
     </div>
