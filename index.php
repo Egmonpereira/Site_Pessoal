@@ -69,9 +69,10 @@
                 </div>
         
                 <div class="container">
-                  <a target="_blank" href="https://parler.com/Egmont"><img width="80" src="imagens/parler.png"></a>
+                  <a target="_blank" href="https://parler.com/#/user/Egmont"><img width="80" src="imagens/parler.png"></a>
+                  <a target="_blank" href="https://gettr.com/user/egmon/"><img width="80" src="imagens/gettr.png"></a>
                   <a target="_blank" href="https://web.telegram.org/"><img width="80" src="imagens/telegram.png"></a>
-                  <a target="_blank" href="https://aiming.pro/"><img width="80" src="imagens/aiming.png"></a>
+                  <!--a target="_blank" href="https://aiming.pro/"><img width="80" src="imagens/aiming.png"></a-->
                   <a target="_blank" href="https://disk.yandex.com"><img width="80" src="imagens/yandexLogo.png"></a>
                   <a target="_blank" href="https://mega.nz"><img width="80" src="imagens/mega.png"></a>
                   <a target="_blank" href="https://www.onedrive.com"><img width="80" src="imagens/onedrive.png"></a>

@@ -59,8 +59,8 @@
                   <a href="https://www.souigreja.com.br/" target="_blank"><img width="80" src="imagens/souigreja.png"></a>
                   <a href="https://reformados21.com.br/" target="_blank"><img width="80" src="imagens/reformados21.png"></a>
                   <a href="https://encontrogenesis.com.br/" target="_blank"><img width="80" src="imagens/encontrogenesis.png"></a>
-                  <a target="_blank" href="http://www.ipcentral.com.br"><img width="70" src="imagens/Central.png"></a>
-                  <a target="_blank" href="http://www.prva.com.br"><img width="70" src="imagens/prva.png"></a>
+                  <a target="_blank" href="http://www.ipcentral.com.br"><img width="80" src="imagens/Central.png"></a>
+                  <a target="_blank" href="http://www.prva.com.br"><img width="80" src="imagens/prva.png"></a>
                   <a href="https://coalizaopeloevangelho.org/" target="_blank"><img width="80" src="imagens/TGC.png"></a>
                   <a href="http://www.celulas.com.br/" target="_blank"><img width="80" src="imagens/celulas.png"></a>
                   <a href="http://novocantico.com.br/" target="_blank"><img width="80" src="imagens/hnc.png"></a>
