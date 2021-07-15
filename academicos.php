@@ -56,6 +56,7 @@
                 <div class="container">
                   <a target="_blank" href="http://simplex.tode.cz/en/"><img width="80" src="imagens/simplexcalculator.png"></a>
                   <a target="_blank" href="http://www.phpsimplex.com/pt/"><img width="80" src="imagens/phpsimplex.png"></a>
+                  <a target="_blank" href="https://linprog.com/en/main-dual-simplex/"><img width="80" src="imagens/hmla.png"></a>
                   <a target="_blank" href="https://www.overleaf.com"><img width="80" src="imagens/overleaf.png"></a>
                   <a target="_blank" href="https://www.wolframalpha.com/examples/mathematics/"><img width="80" src="imagens/wolfram-alpha.png"></a>
                   <a target="_blank" href="https://github.com/settings/profile/"><img width="80" src="imagens/github.png"></a>
