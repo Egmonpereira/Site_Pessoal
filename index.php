@@ -45,6 +45,9 @@
             <p>
             <center>
               <div class="corpo">
+               <p align="left">
+                <img width="80" src="imagens/inicio3.png">
+                </p>
                 <div class="container">
                   <a target="_blank" href="https://twitter.com/egmon"><img width="30%" src="imagens/twitter.png"></a>
                   <a target="_blank" href="https://www.instagram.com/egmonpereira"><img width="30%" src="imagens/instagram1.png"></a>
@@ -54,7 +57,7 @@
                   <a target="_blank" href="https://web.whatsapp.com"><img width="30%" src="imagens/whatsapp.png"></a>
                   <a target="_blank" href="https://www.youtube.com"><img width="30%" src="imagens/youtube.png"></a>
                   <a target="_blank" href="https://br.pinterest.com"><img width="30%" src="imagens/pintereste.png"></a>
-                  <a target="_self" href="motos.php"><img width="35%" src="imagens/motosestradeiras.png"></a>
+                  <a target="_self" href="motos.php"><img width="30%" src="imagens/motocustomasas.png"></a>
                 </div>
 
                 <div class="container">

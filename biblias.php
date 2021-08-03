@@ -43,6 +43,9 @@
             <p>
             <center>
               <div class="corpo">
+              <p align="left">
+                  <img width="80" src="imagens/LogoReformada.png">
+              </p>
                 <div class="container">
                   <a href="http://www.biblia.com.br/" target="_blank"><img width="25%" src="imagens/bibliapontocom.png"></a>
                   <a href="http://www.bible.is/PORJFA/1Kgs/3/D" target="_blank"><img width="25%" src="imagens/bibleis.png"></a>

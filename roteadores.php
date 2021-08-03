@@ -44,6 +44,9 @@
             <p>
             <center>
               <div class="corpo">
+              <p align="left">
+                  <img width="80" src="imagens/circulomaior1.png">
+              </p>
                 <div class="container">
                   <a target="_blank" href="https://dashboard.tawk.to/login"><img width="25%" src="imagens/tawk.png"></a>
                   <a target="_blank" href="https://www.minhaconexao.com.br/"><img width="25%" src="imagens/minha-conexao.png"></a>

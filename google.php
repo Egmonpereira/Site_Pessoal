@@ -43,6 +43,9 @@
               <p>
               <center>
                 <div class="corpo">
+                <p align="left">
+                  <img width="80" src="imagens/google.png">
+                </p>
                   <div class="container">
                     <a target="_blank" href="https://calendar.google.com/calendar/r?tab=ic"><img width="25%" src="imagens/agenda.png"></a>
                     <a target="_blank" href="http://www.gmail.com"><img width="25%" src="imagens/gmail.png"></a>

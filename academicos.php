@@ -45,6 +45,9 @@
             <p>
             <center>
               <div class="corpo">
+              <p align="left">
+                  <img width="80" src="imagens/capelo.png">
+              </p>
                 <div class="container">
                   <a target="_blank" href="https://www.urionlinejudge.com.br/judge/pt"><img width="25%" src="imagens/uri.png"></a>
                   <a target="_blank" href="http://www.veduca.com.br/"><img width="25%" src="imagens/veduca.png"></a>
@@ -62,6 +65,7 @@
                   <a target="_blank" href="https://github.com/settings/profile/"><img width="25%" src="imagens/github.png"></a>
                   <a target="_blank" href="https://git.juninho.com.br/"><img width="25%" src="imagens/influenzer.png"></a>
                   <a target="_blank" href="https://apiteste.mundodocodigo.com.br"><img width="25%" src="imagens/mundodocodigo.png"></a>
+                  <a target="_blank" href="https://admin.mundodocodigo.com.br"><img width="25%" src="imagens/mundodocodigo2.png"></a>
                 </div>
 
                 <div class="container">
@@ -92,6 +96,6 @@
           </td>
         </tr> 
       </table>
-    </center>
+    </center>    
   </body>
 </html>
