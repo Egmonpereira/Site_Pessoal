@@ -47,6 +47,11 @@
               <div class="corpo">
               <p align="left">
                   <img width="80" src="imagens/capelo.png">
+                  <a target="_self" href="biblias.php"><img width="50" src="imagens/LogoReformada.png"></a>
+                  <a href="index.php" target="_self"><img width="50" src="imagens/inicio3.png"></a>
+                  <a target="_self" href="roteadores.php"><img width="50" src="imagens/circulomaior1.png"></a>
+                  <a target="_self" href="google.php"><img width="50" src="imagens/google.png"></a>
+                  <a target="_self" href="motos.php"><img width="50" src="imagens/motocustomasas.png"></a>
               </p>
                 <div class="container">
                   <a target="_blank" href="https://www.urionlinejudge.com.br/judge/pt"><img width="25%" src="imagens/uri.png"></a>

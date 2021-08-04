@@ -45,8 +45,13 @@
             <p>
             <center>
               <div class="corpo">
-               <p align="left">
-                <img width="80" src="imagens/inicio3.png">
+                <p align="left">
+                  <img width="80" src="imagens/inicio3.png">
+                  <a target="_self" href="biblias.php"><img width="50" src="imagens/LogoReformada.png"></a>
+                  <a target="_self" href="academicos.php"><img width="50" src="imagens/capelo.png"></a>
+                  <a target="_self" href="roteadores.php"><img width="50" src="imagens/circulomaior1.png"></a>
+                  <a target="_self" href="google.php"><img width="50" src="imagens/google.png"></a>
+                  <a target="_self" href="motos.php"><img width="50" src="imagens/motocustomasas.png"></a>
                 </p>
                 <div class="container">
                   <a target="_blank" href="https://twitter.com/egmon"><img width="30%" src="imagens/twitter.png"></a>
@@ -81,8 +86,8 @@
                   <a target="_blank" href="https://drive.google.com/drive/my-drive"><img width="30%" src="imagens/googledrive.png"></a>
                   <a target="_blank" href="https://parler.com/#/user/Egmont"><img width="30%" src="imagens/parler.png"></a>
                   <a target="_blank" href="https://gettr.com/user/egmon/"><img width="30%" src="imagens/gettr.png"></a>
-                  <a target="_self" href="google.php"><img width="30%" src="imagens/google.png"></a>
-                  <!--a target="_blank" href="https://aiming.pro/"><img width="30%" src="imagens/aiming.png"></a-->
+                  <!--a target="_self" href="google.php"><img width="30%" src="imagens/google.png"></a-->
+                  <a target="_blank" href="https://aiming.pro/"><img width="30%" src="imagens/aiming.png"></a>
                 </div>
 
                 <div class="container">
@@ -91,9 +96,9 @@
                   <a target="_blank" href="https://convertio.co/pt/"><img width="30%" src="imagens/convertio.png"></a>
                   <a target="_blank" href="https://web.telegram.org/"><img width="30%" src="imagens/telegram.png"></a>
                   <a target="_blank" href="https://slack.com/intl/pt-br"><img width="30%" src="imagens/slack.png"></a>
-                  <a target="_self" href="biblias.php"><img width="30%" src="imagens/LogoReformada.png"></a>
+                  <!--a target="_self" href="biblias.php"><img width="30%" src="imagens/LogoReformada.png"></a>
                   <a target="_self" href="academicos.php"><img width="30%" src="imagens/capelo.png"></a>
-                  <a target="_self" href="roteadores.php"><img width="30%" src="imagens/circulomaior1.png"></a>
+                  <a target="_self" href="roteadores.php"><img width="30%" src="imagens/circulomaior1.png"></a-->
                   <a target="_blank" href="http://www.egmon.com.br"><img width="30%" src="imagens/meusite.png"></a>
                 </div>
               </div>

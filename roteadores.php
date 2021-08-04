@@ -46,6 +46,11 @@
               <div class="corpo">
               <p align="left">
                   <img width="80" src="imagens/circulomaior1.png">
+                  <a target="_self" href="biblias.php"><img width="50" src="imagens/LogoReformada.png"></a>
+                  <a target="_self" href="academicos.php"><img width="50" src="imagens/capelo.png"></a>
+                  <a href="index.php" target="_self"><img width="50" src="imagens/inicio3.png"></a>
+                  <a target="_self" href="google.php"><img width="50" src="imagens/google.png"></a>
+                  <a target="_self" href="motos.php"><img width="50" src="imagens/motocustomasas.png"></a>
               </p>
                 <div class="container">
                   <a target="_blank" href="https://dashboard.tawk.to/login"><img width="25%" src="imagens/tawk.png"></a>
@@ -68,7 +73,7 @@
                   <a target="_blank" href="http://192.168.2.1"><img width="25%" src="imagens/roteador19216821.png"></a>
                   <a target="_blank" href="http://192.168.1.1"><img width="25%" src="imagens/roteador19216811.png"></a>
                   <a target="_blank" href="http://192.168.0.1"><img width="25%" src="imagens/roteador19216801.png"></a>
-                  <a target="_self" href="index.php"><img width="25%" src="imagens/inicio3.png"></a>
+                  <!--a target="_self" href="index.php"><img width="25%" src="imagens/inicio3.png"></a-->
                 </div>
               </div>
             </center>

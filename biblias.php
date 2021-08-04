@@ -45,6 +45,11 @@
               <div class="corpo">
               <p align="left">
                   <img width="80" src="imagens/LogoReformada.png">
+                  <a href="index.php" target="_self"><img width="50" src="imagens/inicio3.png"></a>
+                  <a target="_self" href="academicos.php"><img width="50" src="imagens/capelo.png"></a>
+                  <a target="_self" href="roteadores.php"><img width="50" src="imagens/circulomaior1.png"></a>
+                  <a target="_self" href="google.php"><img width="50" src="imagens/google.png"></a>
+                  <a target="_self" href="motos.php"><img width="50" src="imagens/motocustomasas.png"></a>
               </p>
                 <div class="container">
                   <a href="http://www.biblia.com.br/" target="_blank"><img width="25%" src="imagens/bibliapontocom.png"></a>
@@ -74,7 +79,7 @@
                   <a href="https://www.ipb.org.br/" target="_blank"><img width="25%" src="imagens/ipb.png"></a>
                   <a href="https://santoevangelho.com.br/" target="_blank"><img width="25%" src="imagens/institutosantoevangelho.png"></a>
                   <a href="http://www.monergismo.net.br/" target="_blank"><img width="25%" src="imagens/monergismo1.png"></a>
-                  <a href="index.php" target="_self"><img width="25%" src="imagens/inicio3.png"></a>
+                  <!--a href="index.php" target="_self"><img width="25%" src="imagens/inicio3.png"></a-->
                 </div>
               </div>
             </center>
