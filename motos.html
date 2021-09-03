@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" http-equiv="refresh"><!-- content="20; url=motos.html"-->
+    <meta name="viewport" content="width=device-width" initial-scale=1>
+    <link rel="stylesheet" href="bootstrap-grid.min.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="sortcut icon" href="imagens/favicon.png" type="image/x-icon" />
+
+    <title> Egmon Pereira - Motos Estradeiras</title>
+    <style type="text/css">
+        .imagem img {
+            width: 100%;
+            height: 220px;
+            padding-left: 5px;
+            padding-right: 5px;
+            border: 0px solid red;
+        }
+        
+        body {
+            background-image: url('imagens/bg21.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <?php
+        $rand = (string) rand(1,115);
+        // var_dump($rand);
+        $image_rand = "imagens/bg(".$rand.").jpg";
+        ?>
+
+        <center>
+            <table border="0">
+                <tr>
+                    <td>
+                        <div class="imagem">
+                            <img src="imagens/bg(75).jpg">
+                        </div>
+                        <div class="corpo">
+                            <img width="80" src="imagens/motocustomasas.png">
+                            <a target="_self" href="biblias.html"><img width="50" src="imagens/LogoReformada.png"></a>
+                            <a target="_self" href="academicos.html"><img width="50" src="imagens/capelo.png"></a>
+                            <a target="_self" href="google.html"><img width="50" src="imagens/google.png"></a>
+                            <a target="_self" href="roteadores.html"><img width="50" src="imagens/circulomaior1.png"></a>
+                            <a target="_self" href="index.html"><img width="50" src="imagens/inicio3.png"></a>
+                        </div>
+                        <div class="container">
+                            <a target="_blank" href="https://www.motoscustom.com.br"><img width="25%" src="imagens/motocustom.png"></a>
+                            <a target="_blank" href="https://www.sfmotos.com.br"><img width="25%" src="imagens/sfmotos.png"></a>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </center>
+</body>
+
+</html>
