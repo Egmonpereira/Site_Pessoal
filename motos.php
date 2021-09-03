@@ -11,7 +11,7 @@
       <title> Egmon Pereira - Motos Estradeiras</title>
       <style type="text/css">
           .imagem img{
-              width:100%;
+              width:600px;
               height:220px;
               padding-left: 5px;
               padding-right: 5px;

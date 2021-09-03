@@ -7,16 +7,17 @@
       <link rel="stylesheet" href="bootstrap.min.css">
       <link rel="stylesheet" href="estilos.css">
       <link rel="sortcut icon" href="imagens/favicon.png" type="image/x-icon" />  
+
       <title>Egmon Pereira - Google</title>
       <style type="text/css">
           .imagem img{
-            width:100%;
+              width:100%;
               height:220px;
               padding-left: 5px;
               padding-right: 5px;
               border: 0px solid red;
           }
-      body  {
+        body  {
               background-image: url('imagens/bg20.jpg');
               background-repeat: no-repeat;
               background-attachment: fixed;

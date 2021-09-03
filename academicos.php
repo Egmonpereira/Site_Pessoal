@@ -35,32 +35,32 @@
       $image_rand = "imagens/bg(".$rand.").jpg";
       ?>
 
-      <center>
-        <table border="0">
-          <tr>
-            <td>
-              <div class="imagem">
-                <a href="<?php echo $image_rand; ?>" target="_blank"> <img src="<?php echo $image_rand; ?>" /></a>
-              </div>
-              <p>
-                <center>
-                  <div class="corpo">
-                    <p align="left">
-                      <img width="80" src="imagens/capelo.png">
-                      <a target="_self" href="biblias.php"><img width="50" src="imagens/LogoReformada.png"></a>
-                      <a href="index.php" target="_self"><img width="50" src="imagens/inicio3.png"></a>
-                      <a target="_self" href="roteadores.php"><img width="50" src="imagens/circulomaior1.png"></a>
-                      <a target="_self" href="google.php"><img width="50" src="imagens/google.png"></a>
-                      <a target="_self" href="motos.php"><img width="50" src="imagens/motocustomasas.png"></a>
-                    </p>
-                    <div class="container">
-                      <a target="_blank" href="https://www.urionlinejudge.com.br/judge/pt"><img width="25%" src="imagens/uri.png"></a>
-                      <a target="_blank" href="http://www.veduca.com.br/"><img width="25%" src="imagens/veduca.png"></a>
-                      <a target="_blank" href="http://www.udemy.com/"><img width="25%" src="imagens/udemy.png"></a>
-                      <a target="_blank" href="https://www.cebraspe.org.br/concursos/prf_21"><img width="25%" src="imagens/brasaoprf.png"></a>
-                      <a target="_blank" href="http://portal.nc.ufpr.br/PortalNC/Login"><img width="25%" src="imagens/pcpr.png"></a>
-                      <a target="_blank" href="https://www.cebraspe.org.br/concursos/PC_DF_19_ESCRIVAO"><img width="25%" src="imagens/pcdf.png"></a>
-                    </div>
+    <center>
+      <table border="0">
+        <tr>
+          <td>
+            <div class="imagem">
+              <a href="<?php echo $image_rand; ?>" target="_blank"> <img src="<?php echo $image_rand; ?>" /></a>
+            </div>
+            <p>
+            <center>
+              <div class="corpo">
+              <p align="left">
+                  <img width="80" src="imagens/capelo.png">
+                  <a target="_self" href="biblias.php"><img width="50" src="imagens/LogoReformada.png"></a>
+                  <a href="index.php" target="_self"><img width="50" src="imagens/inicio3.png"></a>
+                  <a target="_self" href="roteadores.php"><img width="50" src="imagens/circulomaior1.png"></a>
+                  <a target="_self" href="google.php"><img width="50" src="imagens/google.png"></a>
+                  <a target="_self" href="motos.php"><img width="50" src="imagens/motocustomasas.png"></a>
+              </p>
+                <div class="container">
+                  <a target="_blank" href="https://www.urionlinejudge.com.br/judge/pt"><img width="25%" src="imagens/uri.png"></a>
+                  <a target="_blank" href="http://www.veduca.com.br/"><img width="25%" src="imagens/veduca.png"></a>
+                  <a target="_blank" href="http://www.udemy.com/"><img width="25%" src="imagens/udemy.png"></a>
+                  <a target="_blank" href="https://www.cebraspe.org.br/concursos/prf_21"><img width="25%" src="imagens/brasaoprf.png"></a>
+                  <a target="_blank" href="http://portal.nc.ufpr.br/PortalNC/Login"><img width="25%" src="imagens/pcpr.png"></a>
+                  <a target="_blank" href="https://www.cebraspe.org.br/concursos/PC_DF_19_ESCRIVAO"><img width="25%" src="imagens/pcdf.png"></a>
+                </div>
 
                     <div class="container">
                       <a target="_blank" href="http://simplex.tode.cz/en/"><img width="25%" src="imagens/simplexcalculator.png"></a>
@@ -75,6 +75,7 @@
 
                     <div class="container">
                       <a target="_blank" href="https://www.overleaf.com"><img width="25%" src="imagens/overleaf.png"></a>
+                      <a target="_blank" href="https://www.devschannel.com/latex/beamer"><img width="25%" src="imagens/latex.png"></a>
                       <a target="_blank" href="http://www.timoteo.cefetmg.br/"><img width="25%" src="imagens/cefet.png"></a>
                       <a target="_blank" href="https://sig.cefetmg.br/sigaa/"><img width="25%" src="imagens/sigaa.png"></a>
                       <a target="_blank" href="https://ava.cefetmg.br/login/index.php"><img width="25%" src="imagens/moodle.png"></a>
