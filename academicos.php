@@ -30,7 +30,7 @@
     <body>
 
       <?php
-      $rand = (string) rand(1,115);
+      $rand = (string) rand(1,89);
       // var_dump($rand);
       $image_rand = "imagens/bg(".$rand.").jpg";
       ?>
