@@ -3,7 +3,7 @@
 <!DOCTYPE html>
   <html>
     <head>
-      <meta charset="utf-8" http-equiv="refresh" content="20; url=index.php">
+      <meta charset="utf-8" http-equiv="refresh"><!-- content="20; url=index.html"--> 
       <meta name="viewport" content="width=device-width" initial-scale=1>
       <link rel="stylesheet" href="bootstrap-grid.min.css">
       <link rel="stylesheet" href="bootstrap.min.css">
@@ -19,35 +19,26 @@
               border: 0px solid red;
           }
         body  {
-              background-image: url('imagens/bg23.png');
+              background-image: url('imagens/bg21.jpg');
               background-repeat: no-repeat;
               background-attachment: fixed;
               background-size: cover;
               background-color: white;
             }
-      </style>
+    </style>
     </head>
     
     <body>
-
-      <?php
-      $rand = (string) rand(1,89);
-      // var_dump($rand);
-      $image_rand = "imagens/bg(".$rand.").jpg";
-      ?>
-
       <center>
         <table border="0">
           <tr>
             <td>
-              <div class="imagem">
-                <a href="<?php echo $image_rand; ?>" target="_blank"> <img src="<?php echo $image_rand; ?>" /></a>
-              </div>
               <p align="left">
                 <center>
-                    <iframe name="menu" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="menu.html" width="100%" height="80px"></iframe>
-                    <iframe name="pagina" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="inicio.html" width="100%" height="300px"></iframe>
-                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="info.html" width="300px" height="30px"></iframe>
+                  <iframe name="cabecalho" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="cabecalho.php" width="100%" height="220px"></iframe>
+                  <iframe name="menu" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="menu.html" width="700px" height="80px"></iframe>
+                  <iframe name="pagina" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="inicio.html" width="100%" height="300px"></iframe>
+                  <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="info.html" width="300px" height="30px"></iframe>
                 </center>
               </p>
             </td>
