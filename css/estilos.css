@@ -3,7 +3,7 @@ body {
 }
 
 .container, .container-fluid {
-    width: 300px;
+    width: 600px;
     height: 300px;
     padding: 0;
     margin-left: 5%;

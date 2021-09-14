@@ -36,7 +36,10 @@
       ?>
 
     <center>
-      <table border="0">
+      <table bor      <center>
+        <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="info.html" width="300px" height="30px"></iframe>
+      </center>
+der="0">
         <tr>
           <td>
             <div class="imagem">
@@ -105,6 +108,6 @@
       </center>    
     </body>
     <center>
-        <font size="-3" color="#fff">egmon@ufmg.br - 2021 - Versão: 21.09.11</font>
+      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="info.html" width="300px" height="30px"></iframe>
     </center>
   </html>
